@@ -1,0 +1,22 @@
+section{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    text-decoration: underline;
+}
+#name{
+
+}
+p#name{
+    color:green;
+    font-size: 40px;
+}
+.small{
+    font-size: 18px;
+    font-style: italic;
+}
